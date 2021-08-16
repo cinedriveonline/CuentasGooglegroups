@@ -135,6 +135,7 @@ cd CuentasGooglegroups
 `pip3 install -r requirements.txt`
 
 - Sigue los pasos 2 hasta el 11 o el que necesitas.
+- Puedes visitarnos en telegram @cinedriveonline
 
 
 
