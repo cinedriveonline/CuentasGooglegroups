@@ -8,4 +8,4 @@
 - [x] Agregar cuentas de servicio a team drive
 
 
-⚫ Puedes encontrar el tutorial completo en  [UNIQedumx](https://uniq.edu.mx/generar-cuentas-de-servicio-google-console-y-agregarlas-al-grupo-google/) - [Aqui el video](https://github.com/smartass08/telegram_gcloner)
+⚫ Puedes encontrar el tutorial completo en  [UNIQedumx](https://uniq.edu.mx/generar-cuentas-de-servicio-google-console-y-agregarlas-al-grupo-google/)
